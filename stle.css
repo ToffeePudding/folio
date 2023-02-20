@@ -1,4 +1,20 @@
-body {
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Background Image Example</title>
+	<style>
+		body {
+			background-image: url("your-image-url.jpg");
+			background-size: cover;
+		}
+	</style>
+</head>
+<body>
+	<!-- Your HTML content goes here -->
+</body>
+</html>
+
+Body {
   background-color:grey;
   color:White;
 }
