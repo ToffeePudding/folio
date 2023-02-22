@@ -1,5 +1,7 @@
 h1 {
   font-family: 'Courier New', monospace;
+  text-align: center;
+  padding: 30px;  
 }
 body {
       background-image: url("https://wallpaperaccess.com/full/410283.jpg");
