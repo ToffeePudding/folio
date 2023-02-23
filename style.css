@@ -9,6 +9,6 @@ body {
       background-size: cover;
       color:white;
 }
-p {
+p,h2,ol {
   margin: 35px;
 }
