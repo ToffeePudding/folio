@@ -9,7 +9,7 @@ body {
       background-size: cover;
       color:white;
 }
-p,h2,ol {
+p,h2,ol,form,img {
   margin: 35px;
 }
 
