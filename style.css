@@ -11,7 +11,7 @@ body {
       color:white;
       margin:50px;
 }
-p,h2,ol,form, {
+p,h2,h3,ol,form, {
   margin: 50px;
 }
 
@@ -83,9 +83,10 @@ img {
 }
 
 .header {
-  padding: 0px;
+  padding: 12px;
   background: #253237;
   color: white;
-  font-size: 50px;
+  font-size: 40px;
+  max width: auto;
 }
 
