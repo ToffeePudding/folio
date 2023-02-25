@@ -50,7 +50,7 @@ body {
   padding: 0px 10px;
 }
 
-.sidebar img {
+.sidebarimg {
   float: left;
 }
 
@@ -58,7 +58,7 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-</body>
+
 <div class="sidenav">
   <a href="#about">About</a>
   <a href="#services">Services</a>
