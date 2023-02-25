@@ -90,6 +90,13 @@ img {
   max width: auto;
 }
 
+footer {
+  text-align: left;
+  padding: 5px;
+  background: #303030;
+  color: white;
+}
+
 @media only screen and (max-width: 620px) {
   /* For mobile phones: */
   .header .main .sidenav {
