@@ -5,6 +5,10 @@ h1 {
   margin: 0px;
 }
 
+#main {
+  transition: margin-left .5s;
+}
+
 body {
       background-image: url("https://images.unsplash.com/photo-1574610758891-5b809b6e6e2e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80");
       background-repeat: no-repeat;
@@ -36,6 +40,7 @@ body {
   font-size: 25px;
   color: #818181;
   display: block;
+  transition: 0.3s;
 }
 
 .sidenav a:hover {
