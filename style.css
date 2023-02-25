@@ -71,10 +71,15 @@ p {
   font-size: 14px;
 }
 
+img {
+  float: right;
+}
+
 .header {
   padding: 30px;
   background: #100007;
   color: white;
   font-size: 30px;
+  float: left
 }
 
