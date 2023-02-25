@@ -10,7 +10,7 @@ body {
       color:white;
 }
 p,h2,ol,form,img {
-  margin: 35px;
+  margin: 50px;
 }
 
 body {
@@ -70,7 +70,7 @@ p {
   font-size: 14px;
 }
 
-.header {
+header {
   padding: 60px;
   text-align: center;
   background: #4E5283;
