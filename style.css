@@ -82,6 +82,10 @@ img {
   margin-right: 15px;
 }
 
+form {
+  margin-left: 50px;
+}
+
 .header {
   padding: 12px;
   background: #170000;
