@@ -11,7 +11,7 @@ body {
       color:white;
       margin:50px;
 }
-p,h2,h3,ol,form {
+main {
   margin: 50px;
 }
 
