@@ -71,12 +71,12 @@ h1 {
 
 h2,h3 {
   font-size: 30px;
-  margin: 50px;
+  margin-left: 50px;
 }
 
 p {
-  font-size: 14px;
-  margin: 50px;
+  font-size: 28px;
+  margin-left: 50px;
 }
 
 img {
