@@ -9,6 +9,7 @@ body {
       background-repeat: no-repeat;
       background-size: cover;
       color:white;
+      margin:50px;
 }
 p,h2,ol,form, {
   margin: 50px;
