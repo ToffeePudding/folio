@@ -44,7 +44,7 @@ body {
 
 .main {
   margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 38px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
@@ -76,9 +76,10 @@ img {
 }
 
 .header {
-  padding: 10px;
+  margin-bottom: 15px 
+  padding: 0px;
   background: #253237;
   color: white;
-  font-size: 20px;
+  font-size: 50px;
 }
 
