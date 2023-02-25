@@ -69,3 +69,11 @@ h2 {
 p {
   font-size: 14px;
 }
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #4E5283;
+  color: white;
+  font-size: 30px;
+}
+
